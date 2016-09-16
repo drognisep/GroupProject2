@@ -1,5 +1,10 @@
 package bean;
 
+//What is the air speed velocity of an unlaiden swallow?
+//African or European?
+//What?...I ...uh...I dunno.....
+//*screaming as body is hurled into the air*
+
 import java.io.Serializable;
 
 public class Product implements Serializable, Cloneable {
