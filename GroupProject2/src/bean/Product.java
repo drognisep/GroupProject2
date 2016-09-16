@@ -1,5 +1,7 @@
 package bean;
 
+//adding a comment to check how GitHub tracks changes - Aaron Jones
+
 import java.io.Serializable;
 
 public class Product implements Serializable, Cloneable {
